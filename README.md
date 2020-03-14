@@ -6,10 +6,18 @@
 
 # 效果
 
-## 去光斑
+### 去光斑
 ![去光斑](https://github.com/yemuzi/noise/blob/master/samplecode/1.jpg) 
 ![去光斑](https://github.com/yemuzi/noise/blob/master/samplecode/1-.jpg) 
 
-## 去雾
+### 去雾
 ![去雾](https://github.com/yemuzi/noise/blob/master/samplecode/3.jpg) 
 ![去雾](https://github.com/yemuzi/noise/blob/master/samplecode/3-.jpg) 
+
+### 去暗
+![去暗](https://github.com/yemuzi/noise/blob/master/samplecode/2.jpg) 
+![去暗](https://github.com/yemuzi/noise/blob/master/samplecode/2-.jpg) 
+
+### 去水印
+![去水印](https://github.com/yemuzi/noise/blob/master/samplecode/4.jpg) 
+![去水印](https://github.com/yemuzi/noise/blob/master/samplecode/4-.jpg) 
